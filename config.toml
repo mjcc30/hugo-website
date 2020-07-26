@@ -1,5 +1,5 @@
 title = "fork hugo-website"
-baseURL = "/hugo-website"
+baseURL = "/"
 languageCode = "en-us"
 theme = "toha"
 themesDir = "themes"
